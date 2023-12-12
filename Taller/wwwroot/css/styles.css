@@ -1,0 +1,80 @@
+﻿/* Agrega tus estilos personalizados aquí */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    /* Estilos para la barra de navegación */
+    background-color: #fff;
+    padding: 10px 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    /* Estilos para el logo */
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.navbar-toggler {
+    /* Estilos para el botón de menú desplegable */
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+.navbar-toggler-icon {
+    /* Estilos para el icono del botón de menú desplegable */
+    background-color: #333;
+}
+
+.navbar-collapse {
+    /* Estilos para la sección colapsada del menú */
+}
+
+.navbar-nav {
+    /* Estilos para la lista de elementos de navegación */
+}
+
+.nav-link {
+    /* Estilos para los enlaces de navegación */
+    color: #333;
+}
+
+.container {
+    /* Estilos para el contenedor principal */
+    margin-top: 20px;
+}
+
+.card {
+    /* Estilos para las tarjetas de módulos */
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.btn {
+    /* Estilos para los botones */
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #333;
+    color: #fff;
+    border-radius: 4px;
+}
+
+footer {
+    /* Estilos para el pie de página */
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

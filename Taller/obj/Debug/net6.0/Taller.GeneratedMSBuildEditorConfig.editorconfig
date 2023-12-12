@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Taller
+build_property.RootNamespace = Taller
+build_property.ProjectDir = C:\Users\JOSEPH\Desktop\Progra\P2\Proyecto Programacion\Proyecto Programacion\Taller\Taller\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\JOSEPH\Desktop\Progra\P2\Proyecto Programacion\Proyecto Programacion\Taller\Taller
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Citas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Citas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Citas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Citas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Citas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Citas/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Citas/_CitasPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YXNcX0NpdGFzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Login/LoginM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5NLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Login/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Mecanicoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVjYW5pY29lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Mecanicoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVjYW5pY29lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Mecanicoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVjYW5pY29lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Mecanicoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVjYW5pY29lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Mecanicoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVjYW5pY29lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Mecanicoes/_MecanicoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVjYW5pY29lc1xfTWVjYW5pY29QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Servicios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Servicios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Servicios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Servicios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Servicios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOSEPH/Desktop/Progra/P2/Proyecto Programacion/Proyecto Programacion/Taller/Taller/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fq2vbvnu55

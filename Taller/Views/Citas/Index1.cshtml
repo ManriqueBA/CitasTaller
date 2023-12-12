@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Taller.Models.Citas>
+
+@{
+    ViewData["Title"] = "Citas";
+}
+<section>
+    <h1>Citas</h1>
+
+    <p>
+        <a class="btn btn-success" style="background-color: #008374;" asp-action="Create">Crear Nuevo</a>
+    </p>
+
+    @await Html.PartialAsync("_CitasPartial", Model)
+
+</section>

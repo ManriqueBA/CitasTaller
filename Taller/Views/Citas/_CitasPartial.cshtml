@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Taller.Models.Citas>
+
+<div class="card-container d-flex flex-wrap">
+    @foreach (var item in Model)
+    {
+        <div class="card mx-4 my-4" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">@Html.DisplayFor(modelItem => item.FechaCita) @Html.DisplayFor(modelItem => item.MecanicoID)</h5>
+                <p class="card-text">
+                    <strong>HoraCita:</strong> @Html.DisplayFor(modelItem => item.HoraCita)<br />
+                </p>
+                 @if (Context.Session.GetInt32("MEC_ID") != null)
+    {
+                    <a href="@Url.Action("Edit", new { id = item.CitaID })" class="btn btn-primary">Edit</a>
+
+                    <a href="@Url.Action("Delete", new { id = item.CitaID })" class="btn btn-danger">Delete</a>
+                   
+        
+    }
+
+                <a href="@Url.Action("Details", new { id = item.CitaID })" class="btn btn-info">Details</a>
+                
+            </div>
+        </div>
+    }
+</div>

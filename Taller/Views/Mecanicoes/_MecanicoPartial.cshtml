@@ -1,0 +1,20 @@
+﻿
+@model IEnumerable<Taller.Models.Mecanico>
+
+<div class="card-container d-flex flex-wrap">
+    @foreach (var item in Model)
+{
+        <div class="card mx-4 my-4" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">@Html.DisplayFor(modelItem => item.Nombre) @Html.DisplayFor(modelItem => item.Apellido)</h5>
+            <p class="card-text">
+                <strong>Usuario:</strong> @Html.DisplayFor(modelItem => item.UsuarioMecanico)<br />
+                @*<strong>Contraseña:</strong> @Html.DisplayFor(modelItem => item.ContrasenaMecanico)*@
+            </p>
+            <a href="@Url.Action("Edit", new { id = item.MecanicoID })" class="btn btn-primary">Edit</a>
+            <a href="@Url.Action("Details", new { id = item.MecanicoID })" class="btn btn-info">Details</a>
+            <a href="@Url.Action("Delete", new { id = item.MecanicoID })" class="btn btn-danger">Delete</a>
+        </div>
+    </div>
+}
+</div>

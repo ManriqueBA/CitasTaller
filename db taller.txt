@@ -1,0 +1,58 @@
+CREATE DATABASE TALLER;
+
+USE TALLER;
+
+CREATE TABLE Usuarios (
+    UsuarioID INT PRIMARY KEY IDENTITY,
+    Nombre VARCHAR(50),
+    Apellido VARCHAR(50),
+    CorreoElectronico VARCHAR(100) UNIQUE,
+    Contrasena VARCHAR(255) 
+);
+
+-- Tabla de Personal del Taller (Mecánicos)
+CREATE TABLE Mecanicos (
+    MecanicoID INT PRIMARY KEY IDENTITY,
+    Nombre VARCHAR(50),
+    Apellido VARCHAR(50),
+    UsuarioMecanico VARCHAR(100),
+    ContrasenaMecanico VARCHAR(255)
+);
+
+-- Tabla de Horarios Disponibles
+CREATE TABLE HorariosDisponibles (
+    HorarioID INT PRIMARY KEY,
+    Fecha DATE,
+    HoraInicio TIME,
+    HoraFin TIME,
+    TipoServicio VARCHAR(50),
+    Disponible BIT 
+);
+
+CREATE TABLE Servicios (
+    ServicioID INT PRIMARY KEY IDENTITY(1,1),
+    Descripcion VARCHAR(100)
+);
+CREATE TABLE Citas (
+    CitaID INT IDENTITY(1,1) PRIMARY KEY,
+    MecanicoID INT,
+    HoraCita TIME,
+    FechaCita DATE,
+    EstadoCita VARCHAR(20), 
+    ServicioID int, 
+);
+
+
+
+-- Insertar datos en la tabla Servicios
+INSERT INTO Servicios (Descripcion) VALUES
+('Cambio de aceite'),
+('Lavado interno de motor'),
+('Frenos'),
+('Revision Rapida'),
+('Escaneo'),
+('Afinacion del motor');
+
+
+
+
